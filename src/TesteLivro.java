@@ -6,7 +6,7 @@ public class TesteLivro {
         Livro l = new Livro();
 
         try {
-            l.titulo = "Aprenda sobre Excecoes";
+            l.titulo = "Aprenda sobre Exceções";
             l.valor = 10.5;
             //l.autor = a;
 
